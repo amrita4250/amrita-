@@ -1,6 +1,5 @@
 # 🏆 DSA Challenge 2024
 
-![DSA Challenge 2024 Banner](https://i.postimg.cc/brGqCm18/Green-Photo-Nature-Traveling-You-Tube-Banner-2.png)
 
 ## 📖 Introduction
 
@@ -87,6 +86,13 @@ Here, you can track your progress, streaks, and contributions. (Future Feature: 
 
 ![Deadman-X's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadman-X&show_icons=true&theme=radical&count_private=true)
 ![Deadman-X's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Deadman-X&theme=radical)
+![SaumyaSubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumyaSubham&show_icons=true&theme=radical&count_private=true)
+![SaumyaSubham's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaumyaSubham&theme=radical)
+![SantanuKMohapatra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantanuKMohapatra&show_icons=true&theme=radical&count_private=true)
+![SantanuKMohapatra's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SantanuKMohapatra&theme=radical)
+
+
+
 
 ## 📢 Open to All
 
