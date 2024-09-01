@@ -1,6 +1,6 @@
 # 🏆 DSA Challenge 2024
 
-![DSA Challenge 2024 Banner](https://i.postimg.cc/TwKbxjsp/Green-Photo-Nature-Traveling-You-Tube-Banner.png)
+![DSA Challenge 2024 Banner](https://i.postimg.cc/wBvW4cZ7/Green-Photo-Nature-Traveling-You-Tube-Banner-1.png)
 
 ## 📖 Introduction
 
