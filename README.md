@@ -1,9 +1,9 @@
-# 🏆 DSA Challenge 2024
+# 🏆 DSA Challenge 2025
 
 
 ## 📖 Introduction
 
-Welcome to the **DSA Challenge 2024** repository! This is an open-source initiative aimed at improving our understanding and mastery of Data Structures and Algorithms (DSA) through daily challenges and collaborative learning. Whether you are a beginner or a seasoned coder, this challenge will help you sharpen your problem-solving skills, learn new techniques, and enhance your competitive programming abilities.
+Welcome to the **DSA Challenge 2025** repository! This is an open-source initiative aimed at improving our understanding and mastery of Data Structures and Algorithms (DSA) through daily challenges and collaborative learning. Whether you are a beginner or a seasoned coder, this challenge will help you sharpen your problem-solving skills, learn new techniques, and enhance your competitive programming abilities.
 
 ## 📚 What is DSA?
 
