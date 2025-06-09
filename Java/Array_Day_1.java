@@ -1,4 +1,4 @@
-public class Array_Day_1 {
+public class amrita_Array_Day_1 {
         public int getSecondLargest(int[] arr) {
             // code here
             int largest = -1;
@@ -16,7 +16,10 @@ public class Array_Day_1 {
             return secondLargest;
         }
         public static void main(String[] args){
-            System.out.println("larges no.");
+                int[] arr = {1,6,3,6};
+           getSecondLargest(arr);
+                for(int num: arr){
+System.out.print(num + " " );
         }
     }
 
